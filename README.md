@@ -32,3 +32,12 @@ ContentExtractor的接口非常简单，用户可以根据网页的url，或者�
 
 ##导入项目
 从ContentExtractor的github主页[https://github.com/hfut-dmic/ContentExtractor](https://github.com/hfut-dmic/ContentExtractor)上下载ContentExtractor-{版本号}-bin.zip,将解压后得到的jar包全部放到工程的build path即可。
+
+
+##联系我们
+欢迎加入讨论群：385105758
+
+邮箱:[wugq@hfut.edu.cn](wugq@hfut.edu.cn)
+
+##开发者
+ContentExtractor由合肥工业大学dmic团队开发
