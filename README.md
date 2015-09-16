@@ -10,7 +10,11 @@ ContentExtractor的网页正文抽取算法使用的是CEPR，适用于几乎所
 算法简介：[http://dl.acm.org/citation.cfm?id=2505558](http://dl.acm.org/citation.cfm?id=2505558)
 
 
-##教程
+#项目地址转移
+项目已和[WebCollector](https://github.com/CrawlScript/WebCollector)合并，当前项目为老版本ContentExtractor,请前往[WebCollector](https://github.com/CrawlScript/WebCollector)项目查看ContentExtractor的最新版本源码和API。
+
+
+##教程(只适用于老版本，新版本请前往[WebCollector](https://github.com/CrawlScript/WebCollector))
 ContentExtractor的接口非常简单，用户可以根据网页的url，或者网页的html，来进行网页正文抽取：
 
 根据url，抽取网页的正文：
@@ -30,7 +34,7 @@ ContentExtractor的接口非常简单，用户可以根据网页的url，或者�
 	}
 
 
-##导入项目
+##导入项目(只适用于老版本，新版本请前往[WebCollector](https://github.com/CrawlScript/WebCollector))
 从ContentExtractor的github主页[https://github.com/hfut-dmic/ContentExtractor](https://github.com/hfut-dmic/ContentExtractor)上下载ContentExtractor-{版本号}-bin.zip,将解压后得到的jar包全部放到工程的build path即可。
 
 
